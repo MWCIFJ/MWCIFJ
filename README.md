@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋 
+## I'm MWCIFJ.NOT V.
 
 <!--
 **MWCIFJ/MWCIFJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,9 +13,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ME.
 - 🤔 I’m looking for help with GPT even if I dont like.
 - 💬 Dont ask me about something,my brain still foolish now.
-- ⚡ Fun fact: Knowledge & Fire
+- ⚡ Fun fact: Knowledge 、Logic 、Music and Fire.
 
-- 
+  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
